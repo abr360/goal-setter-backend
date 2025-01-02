@@ -1,2 +1,5 @@
 .env
 /node_modules
+app-config.json
+catalyst.json
+.catalystrc
